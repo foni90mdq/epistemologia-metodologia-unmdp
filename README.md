@@ -1,10 +1,14 @@
 # Epistemología y Metodología de la Investigación Cientíﬁca (2021)
 
+*[Clases teóricas](#estructura-básica-de-las-clases-teóricas)
 
+*[Clases prácticas](#estructura-básica-de-las-clases-prácticas)
 
-[TOC]
+*[PTD](#resumen-del-ptd)
 
+*[Trabajo espistemología](#trabajo-de-epistemología)
 
+*[Trabajo Metodología](#trabajo-de-metodología)
 
 ## Estructura básica de las clases teóricas
 
@@ -16,7 +20,7 @@ El cómputo de asistencia comenzará el día jueves 12 de agosto.
 
 
 
-## Estructura básica de las clases prácticas.
+## Estructura básica de las clases prácticas
 
 Para cada clase práctica, se proveerá al menos un texto, que deberá ser leído con anterioridad. 
 
